@@ -17,15 +17,14 @@ div.card {
 }
 
 
-.header {
+.mainHeading {
 	border: 1px dotted lightgray;
 
 }
 
 /*MAIN-IMAGE*/
-img {
-	padding: 0 51px;
-	display: inline-block;
+.firstSection {
+	text-align: center;
 }
 
 /*HEADER-TITLE*/
@@ -60,7 +59,7 @@ div.size p, .productWeight p,.thirdSection p {
 }
 
 /*SPECIFICATIONS VALID TIL*/
-div.footer p {
+footer p {
 	font-size: .75em;
 	margin: 4px;
 }
